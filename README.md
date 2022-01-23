@@ -13,5 +13,8 @@ Machine Learning Homework:
 - Week 5 : Dimensionality Reduction - PCA, LDA, SVD
 - Week 6 : Scikit Learn Clustering - Pick 2 Models (or Kaggle)
 - Week 7 : Your First XGBoost Case (Kaggle or Other)
-- Week 8 :
-- Week 9 :
+- Week 8 : Support Vector Machines (SVM)
+- Week 9 : Multi Layer Perceptron and Neural Networks
+- Week 10 : TensorBoard
+- Week 11 : Convolutional Neural Network
+- Week 12 :Modern Convolution Neural Networks
